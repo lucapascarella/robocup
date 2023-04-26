@@ -1,7 +1,7 @@
 import os
 import time
 
-from simulation.resources.motions import Motions
+from resources.motions import Motions
 
 
 # from resources.motions import Motions

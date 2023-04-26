@@ -1,7 +1,7 @@
 from math import ceil
 
-from simulation.players.simple_player import SimplePlayer
-from simulation.teams.team import Team
+from players.simple_player import SimplePlayer
+from teams.team import Team
 
 
 class SimpleTeam(Team):

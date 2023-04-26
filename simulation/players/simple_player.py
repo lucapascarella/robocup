@@ -1,6 +1,6 @@
 # from players.player import Player
-from simulation.players.player import Player
-import cv2
+from players.player import Player
+#import cv2
 
 class SimplePlayer(Player):
     def __init__(self):
